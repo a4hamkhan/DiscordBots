@@ -51,4 +51,4 @@ else:
         else:
             print("\n❌ Invalid Discord Webhook URL")
     except requests.exceptions.RequestException as e:
-        print("\n❌ An error occurred while trying to connect to the URL")
+        print("\n❌ An error occurred while trying to connect to the URL") 
