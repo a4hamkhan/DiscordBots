@@ -1,2 +1,2 @@
 # DiscordBots
-Discord Bots in Python
+Python bots made by pwnesec to automate his shitty stuff.
